@@ -1,2 +1,7 @@
 Creadores:
+<<<<<<< HEAD
 Fernando
+=======
+Alf
+Tomás ha estado aquí una vez
+
